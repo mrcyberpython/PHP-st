@@ -1,0 +1,31 @@
+body {
+    background: #02000c;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 18px;
+    max-width: 500px;
+}
+
+input,
+textarea {
+    background: transparent;
+    color: #FFFFFF;
+    resize: vertical;
+}
+
+button {
+    background: transparent;
+    color: #FFFFFF;
+}
+
+.user-info {
+    background-color: rgb(0, 39, 106);
+}
+
+.gender-other {
+    display: none;
+}
+
+.gender-other--visible {
+    display: inline-block;
+}
